@@ -1,0 +1,38 @@
+[
+    {
+        "package": "AMAK",
+        "url": "https://github.com/afsc-assessments/AMAK" 
+    },
+    {
+        "package": "flatfish",
+        "url": "https://github.com/afsc-assessments/flatfish" 
+    },
+    {
+        "package": "spmR",
+        "url": "https://github.com/afsc-assessments/spmR" 
+    },
+    {
+        "package": "sara",
+        "url": "https://github.com/afsc-assessments/sara" 
+    },
+    {
+        "package": "ebswp",
+        "url": "https://github.com/afsc-assessments/ebswp" 
+    },
+    {
+        "package": "rema",
+        "url": "https://github.com/afsc-assessments/rema"
+    },
+    {
+        "package": "goapollock",
+        "url": "https://github.com/afsc-assessments/goapollock"
+    },
+    {
+        "package": "afscdata",
+        "url": "https://github.com/afsc-assessments/afscdata"
+    },
+    {
+        "package": "EBS Pacific cod",
+        "url": "https://github.com/afsc-assessments/EBS_pcod"
+    }
+]
